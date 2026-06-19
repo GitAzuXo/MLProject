@@ -9,7 +9,7 @@ Projet ML sur donnees mixtes (numeriques + textuelles) issues de l'API France Tr
   **BoW / TF-IDF / Doc2Vec / BERT**.
 
 ## Installation
-Il faut télécharger le fichier de Data très volumineux (0.5Go), qui contient toutes les offres d'emplois, il faut ensuite le placer dans data/
+Il faut télécharger le fichier de Data très volumineux (0.5Go), qui contient toutes les offres d'emplois, il faut ensuite le placer dans data/raw/
 
 https://drive.google.com/file/d/1ciISIIyOO0fnDbU_X7wNeLTKvodTvENb/view?usp=sharing
 
