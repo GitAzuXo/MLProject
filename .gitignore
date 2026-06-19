@@ -1,0 +1,18 @@
+# Secrets - NE JAMAIS commiter les cles API
+.env
+
+# Donnees (souvent trop volumineuses pour git)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# spaCy / modeles
+*.spacy
