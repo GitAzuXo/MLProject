@@ -11,3 +11,7 @@ Projet ML sur donnees mixtes (numeriques + textuelles) issues de l'API France Tr
 ## Installation
 Il faut télécharger le fichier de Data très volumineux (0.5Go), qui contient toutes les offres d'emplois, il faut ensuite le placer dans data/
 
+```bash
+pip install -r requirements.txt
+```
+
